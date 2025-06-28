@@ -1,0 +1,10 @@
+[
+    { "id": "1", "name": "Sala Amaranto", "capacity": 5 },
+    { "id": "2", "name": "Sala Azahar", "capacity": 10 },
+    { "id": "5", "name": "Sala Jacinto", "capacity": 20 },
+    { "id": "6", "name": "Sala Lirio", "capacity": 3 },
+    { "id": "7", "name": "Sala Orquídea", "capacity": 6 },
+    { "id": "8", "name": "Sala Magnolia", "capacity": 4 },
+    { "id": "9", "name": "Sala Azalea", "capacity": 5 },
+    { "id": "10", "name": "Sala Dalia", "capacity": 15 }
+]
